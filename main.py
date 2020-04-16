@@ -7,3 +7,4 @@ def randomAgeGenerator():
         print(name + ' ' + str(random.randint(1,100)))
     
 randomAgeGenerator()
+
